@@ -14,9 +14,11 @@ body{
            text-align:center;
         }
 .vidside{
-     width:90%;
+     width:80%;
      margin:auto;
-     height:250px;
+     border:solid white 2px;
+     height:200px;
+     border-radius:10px;
 }
 .ali{
      width:90%; 
