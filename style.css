@@ -8,6 +8,8 @@ body{
             width: 85%;
             background-color: white;
             padding: 6px;
+            font-size:10px;
+            border-raduis:10px;
             margin:auto;
            text-align:center;
         }
